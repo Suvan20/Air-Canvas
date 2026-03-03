@@ -10,20 +10,31 @@ This eliminates the need for physical input devices such as a mouse, stylus, or 
 🚀 Key Features
 
 Real-time hand tracking and landmark detection
+
 Gesture recognition using Convolutional Neural Networks (CNN)
+
 Deep learning implementation using TensorFlow and Keras
+
 Smooth and responsive virtual drawing
+
 Multiple color selection options
+
 Canvas clear/reset functionality
+
 Touchless human-computer interaction
 
 🛠️ Tech Stack
 
 Python (PyCharm)
+
 OpenCV
+
 MediaPipe
+
 TensorFlow
+
 Keras
+
 NumPy
 
 🧠 Technical Implementation
